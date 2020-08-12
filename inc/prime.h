@@ -1,7 +1,5 @@
-/**
-* @file prime.h
-*
-*/
+
+///@file prime.h
 
 
 
@@ -10,8 +8,8 @@
 /**
 * To check integer number to be a prime or not
 * @param[in] number to check prime or not
-* @return 0 if prime ,1 if not prime number
-* @note Returns 0 for negative values
+* @return true if prime ,false if not prime number
+* @note Returns false for negative values
 */
 
 int prime(int number);

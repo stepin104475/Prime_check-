@@ -25,8 +25,12 @@
 	<time.h>
 	<time.h>
 
-1597230163 source:e:\prime_check\src\prime.c
+1597252786 source:e:\prime_check\src\prime.c
 	"prime.h"
 
-1597227551 e:\prime_check\inc\prime.h
+1597256705 e:\prime_check\inc\prime.h
+
+1597230268 source:e:\prime_check\test\test_prime.c
+	"unity.h"
+	"prime.h"
 

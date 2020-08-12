@@ -30,10 +30,26 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
+			<Add directory="unity" />
+			<Add directory="inc" />
+			<Add directory="test" />
 		</Compiler>
+		<Unit filename="inc/prime.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="src/prime.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/test_prime.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/test_prime.h" />
+		<Unit filename="unity/unity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="unity/unity.h" />
+		<Unit filename="unity/unity_internals.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
