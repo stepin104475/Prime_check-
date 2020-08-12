@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1597230088 source:e:\prime_check\main.c
+	"test_prime.h"
+
+1597227324 e:\prime_check\test\test_prime.h
+
+1597007164 source:e:\prime_check\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597007164 e:\prime_check\unity\unity.h
+	"unity_internals.h"
+
+1597007164 e:\prime_check\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597230163 source:e:\prime_check\src\prime.c
+	"prime.h"
+
+1597227551 e:\prime_check\inc\prime.h
+
