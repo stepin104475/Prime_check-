@@ -5,3 +5,4 @@
 prime number check with unity throw switch 
 ![cppcheck-action](https://github.com/stepin104475/Prime_check-/workflows/cppcheck-action/badge.svg)
 ![CI](https://github.com/stepin104475/Prime_check-/workflows/CI/badge.svg)
+![Unit testing](https://github.com/stepin104475/Prime_check-/workflows/Unit%20testing/badge.svg)
